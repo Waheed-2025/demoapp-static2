@@ -1,0 +1,1 @@
+# demoapp-static2
